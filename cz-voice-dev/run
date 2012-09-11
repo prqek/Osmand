@@ -1,0 +1,1 @@
+java -cp build/jar/osmadViDev.jar:lib/commons-logging-1.1.1.jar:lib/tuprolog.jar net.osmand.ovid

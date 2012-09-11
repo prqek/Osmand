@@ -1,0 +1,116 @@
+a.ogg a
+a_potom.ogg a potom
+a_prijedete_do_cile.ogg a přijedete do cíle
+az_to_bude_mozne_otocte_se.ogg až to bude možné, otočte se
+budete_odbocovat.ogg budete odbočovat
+cesta_je_dlouha.ogg cesta je dlouhá
+ctrnactym.ogg čtrnáctým
+ctvrtym.ogg čtvrtým
+ctyrech.ogg čtyřech
+ctyriceti.ogg čtyřiceti
+ctyricet.ogg čyřicet
+ctyri.ogg čtyři
+ctyrista.ogg čtyřista
+desatym.ogg desátým
+deseti.ogg deseti
+deset.ogg deset
+devadesati.ogg devadesáti
+devadesat.ogg devadesát
+devatym.ogg devátým
+devet.ogg devět
+devetset.ogg devětset
+deviti.ogg devíti
+devitistech.ogg devítistech
+doleva.ogg doleva
+doprava.ogg doprava
+dorazili_jste_do_cile.ogg dorazili jste do cíle
+druhym.ogg druhým
+drzte_se_vlevo.ogg držte se vlevo
+drzte_se_vpravo.ogg držte se vpravo
+dvaceti.ogg dvaceti
+dvacet.ogg dvacet
+dvanactym.ogg dvanáctým
+dva.ogg dva
+dveste.ogg dvěstě
+dvou.ogg dvou
+dvoustech.ogg dvoustech
+jedenactym.ogg jedenáctým
+jeden.ogg jeden
+jednom.ogg jednom
+jedte_na_kruhovy_objezd.ogg jeďte na kruhový objezd
+kilometrech.ogg kilometrech
+kilometr.ogg kilometr
+kilometru.ogg kilometru
+kilometry.ogg kilometry
+metrech.ogg metrech
+metru.ogg metrů
+mirne_doleva.ogg mírně doleva
+mirne_doprava.ogg mírně doprava
+nova.ogg nová
+odbocte_doleva.ogg odbočte doleva
+odbocte_doprava.ogg odbočte doprava
+odbocte_mirne_doleva.ogg odbočte mírně doleva
+odbocte_mirne_doprava.ogg odbočte mírně doprava
+odbocte_ostre_doleva.ogg odbočte ostře doleva
+odbocte_ostre_doprava.ogg odbočte ostře doprava
+osmdesati.ogg osmdesáti
+osmdesat.ogg osmdesát
+osmi.ogg osmi
+osmistech.ogg osmistech
+osm.ogg osm
+osmset.ogg osmset
+osmym.ogg osmým
+ostre_doleva.ogg ostře doleva
+ostre_doprava.ogg ostře doprava
+otocte_se.ogg otočte se
+padesati.ogg padesáti
+padesat.ogg padesát
+patnactym.ogg patnáctým
+patym.ogg pátým
+peti.ogg pěti
+petiset.ogg pětiset
+petistech.ogg pětistech
+pet.ogg pět
+petset.ogg pětset
+pokracujte_rovne.ogg pokračujte rovně
+po.ogg po
+priblizne.ogg přibližně
+prvnim.ogg prvním
+se_budete_drzet_vlevo.ogg se budete držet vlevo
+se_budete_drzet_vpravo.ogg se budete držet vpravo
+se_budete_otacet.ogg se budete otáčet
+sedesati.ogg šedesáti
+sedesat.ogg šedesát
+sedmdesati.ogg sedmdesáti
+sedmdesat.ogg sedmdesát
+sedmi.ogg sedmi
+sedmistech.ogg sedmistech
+sedmnactym.ogg sedmnáctým
+sedm.ogg sedm
+sedmset.ogg sedmset
+sedmym.ogg sedmým
+se_drzte_vlevo.ogg se držte vlevo
+se_drzte_vpravo.ogg se držte vpravo
+se_otocte.ogg se otočte
+sesti.ogg šesti
+sestistech.ogg šestistech
+sestnactym.ogg šestnáctým
+sest.ogg šest
+sestym.ogg šestým
+sestset.ogg šestset
+sjedte.ogg sjeďte
+pokracujte_vlevo.ogg pokračujte vlevo
+pokracujte_vpravo.ogg pokračujte vpravo
+sto.ogg stop
+tisici.ogg tisíci
+tisic.ogg tisíc
+trech.ogg třech
+tretim.ogg třetím
+triceti.ogg třiceti
+tricet.ogg třicet
+trinactym.ogg třináctým
+tri.ogg tři
+trista.ogg třista
+vice_nez.ogg více než
+vyjezdem.ogg výjezdem
+ztrata_gps_signalu.ogg ztráta gps signálu
